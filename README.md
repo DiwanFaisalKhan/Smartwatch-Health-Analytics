@@ -131,6 +131,8 @@ RETURN
 - Power BI (Interactive dashboard, DAX, drillthrough, bookmarks)
 - GitHub (Project hosting & documentation)
 
+Power BI Dashboard: [Download smartwatch_dashboard.pbix](PowerBI/smartwatch_dashboard.pbix) and open in Power BI Desktop.
+
 Closing Statement:
 This project demonstrates an end-to-end analytics pipeline, turning raw personal health data into actionable insights using Python, SQL, and Power BI.
 Feel free to give suggestions on my email.
